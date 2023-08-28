@@ -1,0 +1,26 @@
+.post-img {
+    height: 405px;
+    overflow: hidden;
+}
+
+.post-img img {
+    width: 100%;
+}
+
+.blog-post-content {
+    text-align: center;
+}
+
+.blog-post-content p {
+    font-size: 18px;
+}
+
+.row {
+    display: flex;
+}
+
+.more {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
